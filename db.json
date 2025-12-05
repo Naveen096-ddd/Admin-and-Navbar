@@ -7,12 +7,6 @@
       "email": "naveen.menda96@gmail.com"
     },
     {
-      "id": "ee92",
-      "name": "Naveen",
-      "age": "23",
-      "email": "naveen.menda96@gmail.com"
-    },
-    {
       "id": "690f",
       "name": "abcd",
       "age": "12",
@@ -29,6 +23,24 @@
       "name": "Doe",
       "age": "20",
       "email": "doe@gmail.com"
+    },
+    {
+      "id": "1a2b",
+      "name": "Alice",
+      "age": "22",
+      "email": "alice@gmail.com"
+    },
+    {
+      "id": "3c4d",
+      "name": "Bob",
+      "age": "24",
+      "email": "bob@gmail.com"
+    },
+    {
+      "id": "5e6f",
+      "name": "Charlie",
+      "age": "25",
+      "email": "charlie@gmail.com"
     }
   ]
 }

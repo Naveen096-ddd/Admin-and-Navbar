@@ -51,7 +51,7 @@ const AdminData = () => {
         <tbody>
           {user && user.length > 0 ? (
             user.map((u) => (
-              <tr key={u.id} className="bg-[#1a1d2f] hover:bg-[#256d77]">
+              <tr key={u.id} className="bg-[#1a1d2f] hover:bg-[#256d77] cursor-pointer align-center text-center ">
                 <td className="px-6 py-4">{u.id}</td>
                 <td className="px-6 py-4">{u.name}</td>
                 <td className="px-6 py-4">{u.age}</td>
