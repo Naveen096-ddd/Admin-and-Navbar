@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "4030",
+      "name": "Naveen",
+      "age": "23",
+      "email": "naveen.menda96@gmail.com"
+    },
+    {
+      "id": "ee92",
+      "name": "Naveen",
+      "age": "23",
+      "email": "naveen.menda96@gmail.com"
+    },
+    {
+      "id": "690f",
+      "name": "abcd",
+      "age": "12",
+      "email": "abcd@123gmail.com"
+    },
+    {
+      "id": "f96b",
+      "name": "Jhon",
+      "age": "21",
+      "email": "jhon@gmail.com"
+    },
+    {
+      "id": "7f5b",
+      "name": "Doe",
+      "age": "20",
+      "email": "doe@gmail.com"
+    }
+  ]
+}
